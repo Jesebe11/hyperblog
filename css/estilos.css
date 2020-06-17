@@ -5,6 +5,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #333;
 }
 
 
@@ -14,6 +15,13 @@ body{
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    background: no-repeat;
+}
+
+#cabecera img{
+
+    width: 10em;
+    height: 5em;
 }
 
 #cabecera #tagline{
